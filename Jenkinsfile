@@ -5,7 +5,7 @@ pipeline
 	{
 		maven 'MAVEN_HOME'
 	}
-stages{
+ stages{
 	stage('Welcome Stage')
 	{
 		steps
